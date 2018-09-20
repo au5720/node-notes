@@ -1,3 +1,9 @@
+/*
+  Author: Jennifer Morgan
+  Date: 20-Sept-2018
+  Purpose: Program to get familiar with JS and node.js
+*/
+
 const fs = require('fs');
 const yargs = require('yargs');
 
