@@ -1,5 +1,8 @@
 /*
-    Library of function to add, read, remove and list notes    
+  Author: Jennifer Morgan
+  Date: 20-Sept-2018
+  Purpose: Program to get familiar with JS and node.js
+           Library of function to add, read, remove and list notes    
 */
 const fs = require('fs');
 const fileName = 'notes-data.json';
